@@ -1,4 +1,4 @@
-# Nuisha Adventures
+# Nuysha Adventures
 
 [Link to Demo](http://animation.alexandrpasko.com/)
 
